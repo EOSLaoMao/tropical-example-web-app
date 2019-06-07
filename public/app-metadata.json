@@ -8,9 +8,9 @@
   "description": "Simple Example",
   "chains": [
     {
-      "chainId": "cf057bbfb72640471fd910bcb67639c22df9f92470936cddc1ade0e2f2e7dc4f",
-      "chainName": "Local Chain",
-      "icon": "/eosiologo.png#128321d1e1023f41c35b9d168f0af0090ffb4e1a5d84c275feb1aa8c7a2551da"
+      "chainId": "5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191",
+      "chainName": "CryptoKylin Testnet",
+      "icon": "/kylinlogo.png#ce56c4ad6a92871ca24a493f39be4a3dae209d49b5ed8e950ec50f5efc005ab1"
     }
   ]
 }
