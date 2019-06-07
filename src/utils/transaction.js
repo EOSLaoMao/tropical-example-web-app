@@ -1,6 +1,6 @@
 export const generateTransaction = account => ({
   actions: [{
-    account: 'tropical',
+    account: 'tropicaltown',
     name: 'like',
     authorization: [{
       actor: account,

@@ -2,14 +2,14 @@
   "spec_version": "0.0.7",
   "manifests": [
     {
-      "chainId": "5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191",
+      "chainId": "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473",
       "manifest": {
-        "account": "tropical",
-        "domain": "https://tropical-kylin.eoslaomao.com",
-        "appmeta": "https://tropical-kylin.eoslaomao.com/app-metadata.json#0ecf952d08f6b8213fb7e114be78edfc67554a970cf412fa219896cf81b3c9bf",
+        "account": "tropicaltown",
+        "domain": "https://tropical-jungle.eoslaomao.com",
+        "appmeta": "https://tropical-jungle.eoslaomao.com/app-metadata.json#72c431f4136c75dd4c7dc9c96bf13d6a3272c3f6a77dfc8514e570a9c84a30bb",
         "whitelist": [
           {
-            "contract": "tropical",
+            "contract": "tropicaltown",
             "action": "like"
           }
         ]

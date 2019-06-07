@@ -1,16 +1,16 @@
 {
   "spec_version": "0.0.7",
-  "name": "Tropical Example",
-  "shortname": "Tropical Example",
+  "name": "Tropical Jungle",
+  "shortname": "Tropical Jungle",
   "scope": "/",
   "apphome": "/",
   "icon": "/icon.png#8b7c88882a217876ee4cfd6eaecba21f8083d7f37d757cb7ed3b768ba8590f09",
   "description": "Simple Example",
   "chains": [
     {
-      "chainId": "5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191",
-      "chainName": "CryptoKylin Testnet",
-      "icon": "/kylinlogo.png#ce56c4ad6a92871ca24a493f39be4a3dae209d49b5ed8e950ec50f5efc005ab1"
+      "chainId": "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473",
+      "chainName": "Jungle Testnet",
+      "icon": "/junglelogo.ico#5424964fa0198de38ff7297f13a0162247e46e2c0d41f9281ce5d857e2f1034e"
     }
   ]
 }
