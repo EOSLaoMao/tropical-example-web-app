@@ -6,7 +6,7 @@
       "manifest": {
         "account": "tropical",
         "domain": "https://tropical-kylin.eoslaomao.com",
-        "appmeta": "https://tropical-kylin.eoslaomao.com/app-metadata.json#0ecf952d08f6b8213fb7e114be78edfc67554a970cf412fa219896cf81b3c9bf",
+        "appmeta": "https://tropical-kylin.eoslaomao.com/app-metadata.json#0be9dcf0f7c57945b81732a45eaa97afb0dcc8d7abd4927f088b7dcb63ddc02c",
         "whitelist": [
           {
             "contract": "tropical",
