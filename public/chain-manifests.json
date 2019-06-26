@@ -11,6 +11,10 @@
           {
             "contract": "tropical",
             "action": "like"
+          },
+          {
+            "contract": "eosio.token",
+            "action": "transfer"
           }
         ]
       }
