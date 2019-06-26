@@ -2,11 +2,11 @@
   "spec_version": "0.0.7",
   "manifests": [
     {
-      "chainId": "5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191",
+      "chainId": "629f22d17b9d1829956aefdbe6b90a3160b8383e2bf1a0267a50b105878993e0",
       "manifest": {
         "account": "tropical",
-        "domain": "https://tropical-kylin.eoslaomao.com",
-        "appmeta": "https://tropical-kylin.eoslaomao.com/app-metadata.json#0be9dcf0f7c57945b81732a45eaa97afb0dcc8d7abd4927f088b7dcb63ddc02c",
+        "domain": "https://tropical-dragonfly.eoslaomao.com",
+        "appmeta": "https://tropical-dragonfly.eoslaomao.com/app-metadata.json#2b8df90ae70fe5dd13cd7f03d61d11783f1aad111eb68a85ff54bbc73f966c0d",
         "whitelist": [
           {
             "contract": "tropical",

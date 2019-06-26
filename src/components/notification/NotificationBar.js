@@ -22,7 +22,7 @@ const NotificationBar = ({ hideNotificationBar, error }) => (
               href='https://github.com/EOSIO/tropical-example-web-app/'
               tabIndex={0}
             >
-              Kylin Demo - View Guide
+              Dragonfly - View Guide
             </a>
           </React.Fragment>
         )

@@ -8,8 +8,8 @@
   "description": "Simple Example",
   "chains": [
     {
-      "chainId": "5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191",
-      "chainName": "CryptoKylin Testnet",
+      "chainId": "629f22d17b9d1829956aefdbe6b90a3160b8383e2bf1a0267a50b105878993e0",
+      "chainName": "Dragonfly Testnet",
       "icon": "/kylinlogo.png#7d0b4735cf3788d38b972b383a80acb56f97955a50dee022e9b976eca282f754"
     }
   ]
