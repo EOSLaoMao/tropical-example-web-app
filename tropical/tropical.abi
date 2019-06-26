@@ -1,0 +1,27 @@
+{
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT ",
+    "version": "eosio::abi/1.1",
+    "types": [],
+    "structs": [
+        {
+            "name": "like",
+            "base": "",
+            "fields": [
+                {
+                    "name": "user",
+                    "type": "name"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "like",
+            "type": "like",
+            "ricardian_contract": "---\nspec-version: 0.0\ntitle: Like a Property\nsummary: Like a Tropical Example property\nhttps://ricardian-icons.cryptokylin.io/icons/voting.png#db28cd3db6e62d4509af3644ce7d377329482a14bb4bfaca2aa5f1400d8e8a84\n---\nLiking this property will be visible to anyone who views your profile or searches your name.\nThis like may result in the post owner’s property to be featured on the property owner’s most liked pages.\nAny usage of bots, macros, or any autonomous form of liking a specific person’s property would result in the investigation of like legitimacy for a post."
+        }
+    ],
+    "tables": [],
+    "ricardian_clauses": [],
+    "variants": []
+}
